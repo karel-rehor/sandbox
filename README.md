@@ -1,3 +1,2 @@
-## Test App
-
-Jednoducha aplikace pro testovani a skoleni
+# sandbox
+sandbox to verify unexplicable git collaboration experience(-s) with other repos
